@@ -1,3 +1,6 @@
+# Olá, Mundo! Sou o Julio Filizzola
+***
+
 - 👋 Hi, I’m @juliofilizzola
 - 👀 I’m interested in learning more about technology.
 - 🌱 I’m currently learning web developer at trybe.
