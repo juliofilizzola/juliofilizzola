@@ -9,7 +9,7 @@
                      Instagram: @Juliofilizzola
                      E-mail: Juliofilizzola@hotmail.com
                      
-                     
+!['gif de code'] (https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&show_icons=true&theme=radical)                     
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&hide=contribs,prs&theme=radical)
