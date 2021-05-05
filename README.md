@@ -11,8 +11,9 @@
                      
     ![Gif CODE](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&show_icons=true&theme=radical)                     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&show_icons=true&theme=radical)                
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&layout=compacttheme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 juliofilizzola/juliofilizzola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
