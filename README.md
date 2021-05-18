@@ -5,7 +5,7 @@
 - 👀 I’m interested in learning more about technology.
 - 🌱 I’m currently learning web developer at trybe.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/juliofilizzola?style=for-the-badge)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FJuliofilizzola)
 
 - 📫 How to reach me 
                      Linkedin: @juliofilizzola
