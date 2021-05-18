@@ -4,7 +4,10 @@
 - 👋 Hi, I’m @juliofilizzola
 - 👀 I’m interested in learning more about technology.
 - 🌱 I’m currently learning web developer at trybe.
-- 📫 How to reach me Twitter: @Juliofilizzola
+
+![Twitter Follow](https://img.shields.io/twitter/follow/juliofilizzola?style=for-the-badge)
+
+- 📫 How to reach me 
                      Linkedin: @juliofilizzola
                      Instagram: @Juliofilizzola
                      E-mail: Juliofilizzola@hotmail.com
