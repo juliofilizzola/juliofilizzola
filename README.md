@@ -1,7 +1,7 @@
 # Olá, Mundo! Sou o Julio Filizzola
 ***
 
-<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621366404262.png" alt="" width="400px" height="400px">
+<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621366404262.png" alt="" width="350px" height="350px">
 
 
 - 👋 Hi, I’m @juliofilizzola
