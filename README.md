@@ -7,9 +7,7 @@
 - 👋 Hi, I’m @juliofilizzola
 - 👀 I’m interested in learning more about technology.
 - 🌱 I’m currently learning web developer at trybe.
-- 📫 How to reach me :Linkedin: @juliofilizzola
-                     :Instagram: @Juliofilizzola
-                     :E-mail: Juliofilizzola@hotmail.com
+- 📫 How to reach me:E-mail: Juliofilizzola@hotmail.com
          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&layout=compacttheme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
