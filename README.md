@@ -11,7 +11,8 @@
 
 ## Como me encontrar
 [![Linkding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-filizzola/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](juliofilizzola@hotmail.com)
+
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juliofilizzola@hotmail.com)
 
 <a href="https://www.instagram.com/juliofilizzola/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a/>
 
