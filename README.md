@@ -1,7 +1,7 @@
 # HELLO WORD! I'm JULIO FILIZZOLA
 ***
 
-<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621366404262.png" alt="" width="350px" height="350px">
+<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621366404262.png" alt="OctaCat" width="350px" height="350px">
 
 
 - 👋 Hi, I’m @juliofilizzola
