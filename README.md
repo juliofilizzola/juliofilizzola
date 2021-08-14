@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @juliofilizzola
 - 👀 I’m interested in learning more about technology.
-- 🌱 I’m currently learning web developer at trybe.
+- 🌱 I’m currently learning web developer at Trybe.
 
 
 ## How To Find Me 📧 📪
@@ -14,11 +14,9 @@
 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juliofilizzola@hotmail.com)
 
+[![Twitter](https://img.shields.io/badge/juliofilizzola-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Juliofilizzola)
 
-<a href="https://twitter.com/Juliofilizzola"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> <a/>
-
-<a href="https://www.instagram.com/juliofilizzola/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a/>
-
+[![Instagram](https://img.shields.io/badge/juliofilizzzola-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juliofilizzola/)
 
 
 ## Languages 👨‍💻💻 
