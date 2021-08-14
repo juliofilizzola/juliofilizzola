@@ -1,4 +1,4 @@
-# HELLO WORD! I'am JULIO FILIZZOLA
+# HELLO WORD! I'm JULIO FILIZZOLA
 ***
 
 <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621366404262.png" alt="" width="350px" height="350px">
@@ -60,6 +60,8 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&layout=compacttheme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
