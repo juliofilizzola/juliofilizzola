@@ -1,5 +1,4 @@
-## HELLO WORD!
-# I'am JULIO FILIZZOLA
+# HELLO WORD! I'am JULIO FILIZZOLA
 ***
 
 <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1621366404262.png" alt="" width="350px" height="350px">
