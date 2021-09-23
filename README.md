@@ -18,6 +18,8 @@
 
 [![Instagram](https://img.shields.io/badge/juliofilizzzola-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juliofilizzola/)
 
+![nhacat](https://user-images.githubusercontent.com/65046505/134563100-0e17f8ed-becd-467d-a804-8d98c2d2f9ee.gif)
+
 
 ## Languages 👨‍💻💻 
 
