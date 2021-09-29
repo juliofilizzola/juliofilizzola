@@ -8,6 +8,8 @@
 - 👀 I’m interested in learning more about technology.
 - 🌱 I’m currently learning web developer at Trybe.
 
+## My portfolio
+[My portfolio](https://juliofilizzola.netlify.app/)
 
 ## How To Find Me 📧 📪
 [![Linkding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-filizzola/)
