@@ -75,8 +75,6 @@
 
 
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&show_icons=true&theme=radical)
-[![Julio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliofilizzola)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
