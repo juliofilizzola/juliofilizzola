@@ -71,14 +71,14 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&layout=compacttheme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&show_icons=true&theme=radical)
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&theme=dark&show_icons=true)
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliofilizzola&theme=white" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliofilizzola&theme=dark" width="48%">
 <!---
 juliofilizzola/juliofilizzola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
