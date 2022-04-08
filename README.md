@@ -8,8 +8,12 @@
 - 👀 I’m interested in learning more about technology.
 - 🌱 I’m currently learning web developer at Trybe.
 
+![nhacat](https://user-images.githubusercontent.com/65046505/134563100-0e17f8ed-becd-467d-a804-8d98c2d2f9ee.gif)
+
 ## My portfolio
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juliofilizzola.netlify.app/)
+
+
 
 ## How To Find Me 📧 📪
 [![Linkding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-filizzola/)
@@ -19,8 +23,6 @@
 [![Twitter](https://img.shields.io/badge/juliofilizzola-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Juliofilizzola)
 
 [![Instagram](https://img.shields.io/badge/juliofilizzzola-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juliofilizzola/)
-
-![nhacat](https://user-images.githubusercontent.com/65046505/134563100-0e17f8ed-becd-467d-a804-8d98c2d2f9ee.gif)
 
 
 ## Languages 👨‍💻💻 
