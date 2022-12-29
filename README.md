@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @juliofilizzola
 - 👀 I’m interested in learning more about technology.
-- 🌱 I’m currently learning web developer at Trybe.
+- 🌱 I’m currently learning web developer.
 
 ![nhacat](https://user-images.githubusercontent.com/65046505/134563100-0e17f8ed-becd-467d-a804-8d98c2d2f9ee.gif)
 
