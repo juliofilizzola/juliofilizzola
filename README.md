@@ -3,9 +3,6 @@
 # I'm Julio Filizzola!
 ***
 
-<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628983765064.png" alt="OctaCat" width="350px" height="350px">
-
-
 - 👋 Hi, I’m @juliofilizzola
 - 👀 I’m interested in learning more about technology.
 - 🌱 I’m currently learning web developer.
