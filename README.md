@@ -89,7 +89,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true&langs_count=13)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&theme=dark&show_icons=true)
 
