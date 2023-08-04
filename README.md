@@ -66,6 +66,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true&langs_count=8">
+
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&theme=dark&show_icons=true)
 
 
