@@ -1,5 +1,3 @@
-# HELLO WORD!
-
 # I'm Julio Filizzola!
 ***
 
