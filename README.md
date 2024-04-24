@@ -4,11 +4,11 @@ I am a Backend Developer proficient in TypeScript, JavaScript, Go and Java, with
 
 ## 🚀 Skills
 
-- 👩‍💻 TypeScript, JavaScript, Go, Java
+- 👩‍💻 TypeScript, C#, Go, Java
 - ⚙️ Node.js, Express, GORM, Prisma
 - 🪢 Kafka, Redis
 - ☁ AWS (Lambda, SQS, S3, DynamoDB, etc.)
-- 💽 SQL, MongoDB
+- 💽 SQL (Postgres, MySQL), NoSQL(Mongodb, DynamoDB)
 
 ## 📖 What I am currently learning / improving on
 
