@@ -7,7 +7,7 @@ I am a Backend Developer proficient in TypeScript, JavaScript, Go and Java, with
 - 👩‍💻 TypeScript, C#, Go, Java
 - ⚙️ Node.js, Express, GORM, Prisma
 - 🪢 Kafka, Redis
-- ☁ AWS (Lambda, SQS, S3, DynamoDB, etc.)
+- ☁ AWS (Lambda, SQS, S3, DynamoDB)
 - 💽 SQL (Postgres, MySQL), NoSQL(Mongodb, DynamoDB)
 
 ## 📖 What I am currently learning / improving on
