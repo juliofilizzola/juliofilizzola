@@ -1,42 +1,43 @@
-# Hello, I'm Julio Filizzola 👋
+# Olá, sou Julio Filizzola 👋
 
-I am a Backend Developer proficient in TypeScript, JavaScript, Go and Java, with experience using various technologies such as Node.js, Express.js, AWS, Docker, MongoDB, etc.
+Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertise em infraestrutura cloud (AWS EKS, Terraform), Kubernetes (Helm, ArgoCD, multi-cluster), CI/CD (GitHub Actions) e observability (Elasticsearch, Kibana, Grafana). Proficiente em TypeScript, JavaScript, Go e Java; experiência com autenticação (Keycloak), stacks Vue/React e projetos como webhook forwarders GitHub-Discord.
 
-## 🚀 Skills
+## 🚀 Habilidades Principais
 
-- 👩‍💻 TypeScript, C#, Go, Java
-- ⚙️ Node.js, Express, GORM, Prisma
-- 🪢 Kafka, Redis
-- ☁ AWS (Lambda, SQS, S3, DynamoDB)
-- 💽 SQL (Postgres, MySQL), NoSQL(Mongodb, DynamoDB)
+- **Linguagens**: TypeScript, JavaScript/Node.js, Go (Gin, GORM), Java, C#, Python, Bash, Powershell
+- **Backend**: Express.js, Prisma, Kafka, Redis
+- **Cloud & Infra**: AWS (EKS, EC2, ECS, ECR, S3, CloudFront, Route53, Lambda, SQS, DynamoDB, IAM), Terraform (IaC)
+- **Containers & Orquestração**: Docker, Kubernetes, Helm, ArgoCD (GitOps, multi-cluster)
+- **Bancos**: SQL (Postgres, MySQL, SQL Server), NoSQL (MongoDB, DynamoDB, Elasticsearch)
+- **Observability**: Kibana, Grafana, Log aggregation
+- **Frontend**: React, Vue.js (iframes, postMessage)
+- **Outros**: Keycloak (realms/clients), GitHub Actions (CI/CD), Agile
 
-## 📖 What I am currently learning / improving on
+## 📖 O que estou aprendendo / melhorando
 
-- Currently improving my skills in design patterns in Node.js and Go.
-- Learning about microservices architecture.
+- Padrões de design avançados em Node.js e Go.
+- Arquitetura de microservices e multi-cluster Kubernetes.
+- Otimização de IaC com Terraform e GitOps com ArgoCD.
 
+## 🛠️ Projetos em Destaque
 
-## 🔧 Technologies & Tools
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Notifica-dev / Hookord](https://github.com/juliofilizzola/hookord) | Bot de notificações GitHub para Discord (PRs, webhooks). | Go, Gin, Docker |
+| Multi-cluster ArgoCD | Gerenciamento de clusters Kubernetes com GitOps, users admin/readonly. | ArgoCD, Kubernetes, Helm |
+| EKS Deployments | Provisionamento de clusters AWS EKS com observability (Kibana). | Terraform, AWS EKS, GitHub Actions, Kibana |
+| Vue/React Embedding | App React em iframe dentro de Vue, com auth via postMessage/CloudFront. | Vue2, React, AWS CloudFront |
+| Keycloak Setup | Configuração de realms e clients para autenticação. | Keycloak, Java |
 
-- Familiar with modern infrastructure and operations technologies like Docker and CI/CD workflows.
-- Comfortable with Agile methodologies.
+## 📊 Stats
 
-## 📫 How to reach me
-
-You can email me at juliofilizzola@hotmail.com or send me a message on [LinkedIn](https://www.linkedin.com/in/julio-filizzola/).
-
----
-
-<!---
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
---->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true&langs_count=5" alt="Top Languages">
 
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&theme=dark&show_icons=true)
 
+## 📫 Contato
 
-<!---
-juliofilizzola/juliofilizzola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: [juliofilizzola@hotmail.com](mailto:juliofilizzola@hotmail.com)  
+LinkedIn: [linkedin.com/in/julio-filizzola](https://www.linkedin.com/in/julio-filizzola/)
+
+---
