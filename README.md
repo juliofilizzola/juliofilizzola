@@ -29,11 +29,6 @@ Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertis
 | Vue/React Embedding | App React em iframe dentro de Vue, com auth via postMessage/CloudFront. | Vue2, React, AWS CloudFront |
 | Keycloak Setup | Configuração de realms e clients para autenticação. | Keycloak, Java |
 
-## 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilizzola&theme=dark&show_icons=true&langs_count=5" alt="Top Languages">
-
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilizzola&theme=dark&show_icons=true)
 
 ## 📫 Contato
 
