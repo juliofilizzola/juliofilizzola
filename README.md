@@ -1,6 +1,6 @@
 # Olá, sou Julio Filizzola 👋
 
-Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertise em infraestrutura cloud (AWS EKS, Terraform), Kubernetes (Helm, ArgoCD, multi-cluster), CI/CD (GitHub Actions) e observability (Elasticsearch, Kibana, Grafana). Proficiente em TypeScript, JavaScript, Go e Java; experiência com autenticação (Keycloak), stacks Vue/React e projetos como webhook forwarders GitHub-Discord.
+Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertise em infraestrutura cloud (AWS EKS, Terraform), Kubernetes (Helm, ArgoCD, multi-cluster), CI/CD (GitHub Actions). Proficiente em TypeScript, JavaScript, Go e Java; stacks Vue/React e projetos como webhook forwarders GitHub-Discord.
 
 ## 🚀 Habilidades Principais
 
@@ -8,8 +8,7 @@ Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertis
 - **Backend**: Express.js, Prisma, Kafka, Redis
 - **Cloud & Infra**: AWS (EKS, EC2, ECS, ECR, S3, CloudFront, Route53, Lambda, SQS, DynamoDB, IAM), Terraform (IaC)
 - **Containers & Orquestração**: Docker, Kubernetes, Helm, ArgoCD (GitOps, multi-cluster)
-- **Bancos**: SQL (Postgres, MySQL, SQL Server), NoSQL (MongoDB, DynamoDB, Elasticsearch)
-- **Observability**: Kibana, Grafana, Log aggregation
+- **Bancos**: SQL (Postgres, MySQL, SQL Server), NoSQL (MongoDB, DynamoDB, Elasticsearch) 
 - **Frontend**: React, Vue.js (iframes, postMessage)
 - **Outros**: Keycloak (realms/clients), GitHub Actions (CI/CD), Agile
 
