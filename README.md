@@ -22,11 +22,11 @@ Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertis
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Notifica-dev / Hookord](https://github.com/juliofilizzola/hookord) | Bot de notificações GitHub para Discord (PRs, webhooks). | Go, Gin, Docker |
+| [Hookord](https://github.com/juliofilizzola/hookord) | Bot de notificações GitHub para Discord (PRs, webhooks). | Go, Gin, Docker |
 | Multi-cluster ArgoCD | Gerenciamento de clusters Kubernetes com GitOps, users admin/readonly. | ArgoCD, Kubernetes, Helm |
 | EKS Deployments | Provisionamento de clusters AWS EKS com observability (Kibana). | Terraform, AWS EKS, GitHub Actions, Kibana |
 | Vue/React Embedding | App React em iframe dentro de Vue, com auth via postMessage/CloudFront. | Vue2, React, AWS CloudFront |
-| Keycloak Setup | Configuração de realms e clients para autenticação. | Keycloak, Java |
+| [kenvctl](https://github.com/juliofilizzola/kenvctl) | Configuração de variaveis de ambinete no cluster e na aws secrets | go |
 
 
 ## 📫 Contato
