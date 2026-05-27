@@ -27,6 +27,7 @@ Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertis
 | EKS Deployments | Provisionamento de clusters AWS EKS com observability (Kibana). | Terraform, AWS EKS, GitHub Actions, Kibana |
 | Vue/React Embedding | App React em iframe dentro de Vue, com auth via postMessage/CloudFront. | Vue2, React, AWS CloudFront |
 | [kenvctl](https://github.com/juliofilizzola/kenvctl) | Configuração de variaveis de ambinete no cluster e na aws secrets | go |
+| [Redis Config](https://github.com/juliofilizzola/redis-config) | Configuração basica de implementação do redis | Docker |
 
 
 ## 📫 Contato
