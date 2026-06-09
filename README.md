@@ -28,6 +28,7 @@ Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertis
 | Vue/React Embedding | App React em iframe dentro de Vue, com auth via postMessage/CloudFront. | Vue2, React, AWS CloudFront |
 | [kenvctl](https://github.com/juliofilizzola/kenvctl) | Configuração de variaveis de ambinete no cluster e na aws secrets | go |
 | [Redis Config](https://github.com/juliofilizzola/redis-config) | Configuração basica de implementação do redis | Docker |
+| [DEV](https://github.com/juliofilizzola/dev) | Configuração basica para iniciar o pc pós formatação | Shell, Powershell |
 
 
 ## 📫 Contato
