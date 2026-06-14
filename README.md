@@ -1,39 +1,27 @@
 # Olá, sou Julio Filizzola 👋
 
-Sou um **Full-Stack Developer em migração para DevOps Engineer**, com expertise em infraestrutura cloud (AWS EKS, Terraform), Kubernetes (Helm, ArgoCD, multi-cluster), CI/CD (GitHub Actions). Proficiente em TypeScript, JavaScript, Go e Java; stacks Vue/React e projetos como webhook forwarders GitHub-Discord.
+Full-Stack Developer em transição para DevOps Engineer, focado na construção e manutenção de infraestrutura cloud, ecossistema Kubernetes e cultura GitOps.
 
-## 🚀 Habilidades Principais
+## 🚀 Tech Stack
 
-- **Linguagens**: TypeScript, JavaScript/Node.js, Go (Gin, GORM), Java, C#, Python, Bash, Powershell
-- **Backend**: Express.js, Prisma, Kafka, Redis
-- **Cloud & Infra**: AWS (EKS, EC2, ECS, ECR, S3, CloudFront, Route53, Lambda, SQS, DynamoDB, IAM), Terraform (IaC)
-- **Containers & Orquestração**: Docker, Kubernetes, Helm, ArgoCD (GitOps, multi-cluster)
-- **Bancos**: SQL (Postgres, MySQL, SQL Server), NoSQL (MongoDB, DynamoDB, Elasticsearch) 
-- **Frontend**: React, Vue.js (iframes, postMessage)
-- **Outros**: Keycloak (realms/clients), GitHub Actions (CI/CD), Agile
+- **DevOps & Cloud:** AWS (EKS, ECS, S3, Route53), Terraform, Kubernetes, Helm, ArgoCD, Docker, GitHub Actions
+- **Linguagens:** TypeScript, Go, Java, Python, Bash, PowerShell
+- **Backend & Dados:** Node.js, PostgreSQL, MongoDB, Elasticsearch, Redis, Kafka
+- **Frontend:** React, Vue.js
 
-## 📖 O que estou aprendendo / melhorando
+## 🎯 Foco Atual
 
-- Padrões de design avançados em Node.js e Go.
-- Arquitetura de microservices e multi-cluster Kubernetes.
-- Otimização de IaC com Terraform e GitOps com ArgoCD.
+- Arquitetura de microservices e ambientes multi-cluster (Kubernetes).
+- Otimização de IaC (Terraform) e fluxos de entrega contínua (ArgoCD).
+- Desenvolvimento de ferramentas de automação e design patterns em Go.
 
-## 🛠️ Projetos em Destaque
+## 🛠️ Principais Projetos
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Hookord](https://github.com/juliofilizzola/hookord) | Bot de notificações GitHub para Discord (PRs, webhooks). | Go, Gin, Docker |
-| Multi-cluster ArgoCD | Gerenciamento de clusters Kubernetes com GitOps, users admin/readonly. | ArgoCD, Kubernetes, Helm |
-| EKS Deployments | Provisionamento de clusters AWS EKS com observability (Kibana). | Terraform, AWS EKS, GitHub Actions, Kibana |
-| Vue/React Embedding | App React em iframe dentro de Vue, com auth via postMessage/CloudFront. | Vue2, React, AWS CloudFront |
-| [kenvctl](https://github.com/juliofilizzola/kenvctl) | Configuração de variaveis de ambinete no cluster e na aws secrets | go |
-| [Redis Config](https://github.com/juliofilizzola/redis-config) | Configuração basica de implementação do redis | Docker |
-| [DEV](https://github.com/juliofilizzola/dev) | Configuração basica para iniciar o pc pós formatação | Shell, Powershell |
-
+- **[Hookord](https://github.com/juliofilizzola/hookord)**: Webhook forwarder do GitHub para Discord (Go).
+- **[kenvctl](https://github.com/juliofilizzola/kenvctl)**: CLI para sincronização de variáveis de ambiente e secrets entre AWS e Kubernetes (Go).
+- **Infraestrutura Cloud**: Provisionamento de clusters EKS com observabilidade e gestão via ArgoCD.
+- **[DEV](https://github.com/juliofilizzola/dev)**: Scripts para automação de setup pós-formatação (Shell/PowerShell).
 
 ## 📫 Contato
 
-Email: [juliofilizzola@hotmail.com](mailto:juliofilizzola@hotmail.com)  
-LinkedIn: [linkedin.com/in/julio-filizzola](https://www.linkedin.com/in/julio-filizzola/)
-
----
+📧 [juliofilizzola@hotmail.com](mailto:juliofilizzola@hotmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/julio-filizzola/)
